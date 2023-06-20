@@ -15,3 +15,5 @@ function logAtleast5(n){
         console.log(i)
     }
 }
+
+//big O is  O(n) for the above function
