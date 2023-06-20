@@ -9,3 +9,9 @@ function addUpTo(n) {
 
 //   using this method we can calculate the exution time,but this is not reliable, so, we will try to determine the number of 
 // operations which can be n this time
+
+function logAtleast5(n){
+    for (var i=1;i<= Math.max(5,n); i++){
+        console.log(i)
+    }
+}
